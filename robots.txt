@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://comendeva.github.io/sitemap
+Sitemap: https://comendeva.github.io/app/sitemap
+Sitemap: https://comendeva.github.io/assets/sitemap
+Sitemap: https://comendeva.github.io/css/sitemap
+Sitemap: https://comendeva.github.io/includes/sitemap
+Sitemap: https://comendeva.github.io/item/sitemap
+Sitemap: https://comendeva.github.io/src/sitemap
